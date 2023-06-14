@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118708245/25d8579e-fd25-43d7-b576-ac9704781341)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
